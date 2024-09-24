@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450688871596",
+    "project_id": "private-68d51",
+    "storage_bucket": "private-68d51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450688871596:android:b518b9cad24f56fb650309",
+        "android_client_info": {
+          "package_name": "rakesh.CoreDataToDoey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVfMd0iQ80iCb8XXLoEGXkr4Q1RXNI4E0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

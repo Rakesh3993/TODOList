@@ -1,0 +1,6 @@
+framework module Pods_CoreDataToDoeyTests {
+  umbrella header "Pods-CoreDataToDoeyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
